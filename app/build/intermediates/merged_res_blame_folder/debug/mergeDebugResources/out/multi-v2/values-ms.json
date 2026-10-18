@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.pbwear.app-mergeDebugResources-46:/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\8.11.1\\transforms\\c06d49ed9c2529ca1c3710ebf6930fea\\transformed\\core-1.13.1\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,459,565,683,798",
+                        "endColumns": "94,101,96,109,105,117,114,100",
+                        "endOffsets": "145,247,344,454,560,678,793,894"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "183,278,380,477,587,693,811,2286",
+                        "endColumns": "94,101,96,109,105,117,114,100",
+                        "endOffsets": "273,375,472,582,688,806,921,2382"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\8.11.1\\transforms\\97af84e055e85efd426a555dd14afe9b\\transformed\\foundation-release\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,220",
+                        "endColumns": "77,86,90",
+                        "endOffsets": "128,215,306"
+                    },
+                    "to": {
+                        "startLines": "2,30,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,2649,2736",
+                        "endColumns": "77,86,90",
+                        "endOffsets": "178,2731,2822"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\8.11.1\\transforms\\faecce7297e474d907cb90620861a53e\\transformed\\ui-release\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "184,274,358,454,556,641,724,819,906,991,1076,1162,1234,1321,1398,1471,1544,1620,1686",
+                        "endColumns": "89,83,95,101,84,82,94,86,84,84,85,71,86,76,72,72,75,65,119",
+                        "endOffsets": "269,353,449,551,636,719,814,901,986,1071,1157,1229,1316,1393,1466,1539,1615,1681,1801"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "926,1016,1100,1196,1298,1383,1466,1561,1648,1733,1818,1904,1976,2063,2140,2213,2387,2463,2529",
+                        "endColumns": "89,83,95,101,84,82,94,86,84,84,85,71,86,76,72,72,75,65,119",
+                        "endOffsets": "1011,1095,1191,1293,1378,1461,1556,1643,1728,1813,1899,1971,2058,2135,2208,2281,2458,2524,2644"
+                    }
+                }
+            ]
+        }
+    ]
+}

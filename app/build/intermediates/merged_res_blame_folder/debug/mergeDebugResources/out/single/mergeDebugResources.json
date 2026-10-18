@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "de.pbwear.app-debug-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "de.pbwear.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "de.pbwear.app-debug-48:/font_sparkasse_regular.otf.flat",
+        "source": "de.pbwear.app-main-50:/font/sparkasse_regular.otf"
+    },
+    {
+        "merged": "de.pbwear.app-debug-48:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "de.pbwear.app-main-50:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "de.pbwear.app-debug-48:/font_sparkasse_bold.otf.flat",
+        "source": "de.pbwear.app-main-50:/font/sparkasse_bold.otf"
+    }
+]
