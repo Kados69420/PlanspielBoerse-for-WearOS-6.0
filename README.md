@@ -28,4 +28,4 @@ Voraussetzung: Wear OS 3+ (minSdk 30), gebaut gegen API 36 (Wear OS 6).
 - Farben, Hintergrundverlauf und Schrift stammen aus der Original-App (Rot #EE0000, Grün #04B728,
   Sparkasse-Schrift). Die Schriftdateien sind urheberrechtlich geschützt: nicht weitergeben.
 - Der Aufbau (Pakete): `data/` (Modelle + API), `ui/` (Theme, Komponenten, Bildschirme, ViewModel).
-- Die Suchfunktion weißt derzeit Fehler auf
+- Die Suchfunktion hat derzeit noch Fehlermeldung. 
