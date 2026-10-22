@@ -3416,23 +3416,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\Downloads\\PlanspielWear(1)\\PlanspielWear\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "52",
-                        "endOffsets": "64"
-                    },
-                    "to": {
-                        "startLines": "103",
-                        "startColumns": "4",
-                        "startOffsets": "6239",
-                        "endColumns": "52",
-                        "endOffsets": "6287"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\8.11.1\\transforms\\21916296e3a586397e0e0e3c598c13f9\\transformed\\customview-poolingcontainer-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -3503,6 +3486,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Admin\\Downloads\\PlanspielWear(3)\\PlanspielWear\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "56",
+                        "endOffsets": "68"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "501",
+                        "endColumns": "56",
+                        "endOffsets": "553"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\8.11.1\\transforms\\e302c28655af9ff9276224d055c966c2\\transformed\\activity-1.10.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -3520,20 +3520,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\Downloads\\PlanspielWear(1)\\PlanspielWear\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\Admin\\Downloads\\PlanspielWear(3)\\PlanspielWear\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
                         "startOffsets": "16",
-                        "endColumns": "56",
-                        "endOffsets": "68"
+                        "endColumns": "52",
+                        "endOffsets": "64"
                     },
                     "to": {
-                        "startLines": "7",
+                        "startLines": "103",
                         "startColumns": "4",
-                        "startOffsets": "501",
-                        "endColumns": "56",
-                        "endOffsets": "553"
+                        "startOffsets": "6239",
+                        "endColumns": "52",
+                        "endOffsets": "6287"
                     }
                 },
                 {

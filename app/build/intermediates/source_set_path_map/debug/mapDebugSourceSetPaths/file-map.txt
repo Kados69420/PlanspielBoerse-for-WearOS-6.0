@@ -42,10 +42,10 @@ de.pbwear.app-lifecycle-viewmodel-ktx-2.8.7-40 C:\Users\Admin\.gradle\caches\8.1
 de.pbwear.app-core-viewtree-1.0.0-41 C:\Users\Admin\.gradle\caches\8.11.1\transforms\f92789d64ba7cf118d142cc87748d925\transformed\core-viewtree-1.0.0\res
 de.pbwear.app-ui-release-42 C:\Users\Admin\.gradle\caches\8.11.1\transforms\faecce7297e474d907cb90620861a53e\transformed\ui-release\res
 de.pbwear.app-profileinstaller-1.4.0-43 C:\Users\Admin\.gradle\caches\8.11.1\transforms\fc4eb17c524db9c03023d38308c0c66d\transformed\profileinstaller-1.4.0\res
-de.pbwear.app-pngs-44 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\build\generated\res\pngs\debug
-de.pbwear.app-resValues-45 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\build\generated\res\resValues\debug
-de.pbwear.app-packageDebugResources-46 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-de.pbwear.app-packageDebugResources-47 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-de.pbwear.app-debug-48 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\build\intermediates\merged_res\debug\mergeDebugResources
-de.pbwear.app-debug-49 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\debug\res
-de.pbwear.app-main-50 C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\res
+de.pbwear.app-pngs-44 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\build\generated\res\pngs\debug
+de.pbwear.app-resValues-45 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\build\generated\res\resValues\debug
+de.pbwear.app-packageDebugResources-46 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+de.pbwear.app-packageDebugResources-47 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+de.pbwear.app-debug-48 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\build\intermediates\merged_res\debug\mergeDebugResources
+de.pbwear.app-debug-49 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\debug\res
+de.pbwear.app-main-50 C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\res

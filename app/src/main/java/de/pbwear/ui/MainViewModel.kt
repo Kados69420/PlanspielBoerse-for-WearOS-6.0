@@ -95,6 +95,10 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
 
     val userName: String get() = session.userName
 
+    /** Fehlertext mit technischer Ursache, damit man sie auf der Uhr ablesen kann. */
+    private fun diag(prefix: String, e: Exception): String =
+        "$prefix: ${e.javaClass.simpleName} ${e.message.orEmpty().replace('\n', ' ').take(140)}"
+
     // ------------------------------------------------------------------ Login
 
     fun login(user: String, password: String) {
@@ -149,7 +153,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                 handleAuthFailure(e.message ?: "")
                 Load.Err(e.message ?: "Fehler")
             } catch (e: Exception) {
-                Load.Err("Daten nicht lesbar")
+                Load.Err(diag("Daten nicht lesbar", e))
             }
         }
     }
@@ -163,7 +167,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                 handleAuthFailure(e.message ?: "")
                 Load.Err(e.message ?: "Fehler")
             } catch (e: Exception) {
-                Load.Err("Daten nicht lesbar")
+                Load.Err(diag("Daten nicht lesbar", e))
             }
         }
     }
@@ -177,7 +181,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                 handleAuthFailure(e.message ?: "")
                 Load.Err(e.message ?: "Fehler")
             } catch (e: Exception) {
-                Load.Err("Daten nicht lesbar")
+                Load.Err(diag("Daten nicht lesbar", e))
             }
         }
     }
@@ -191,7 +195,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                 handleAuthFailure(e.message ?: "")
                 Load.Err(e.message ?: "Fehler")
             } catch (e: Exception) {
-                Load.Err("Daten nicht lesbar")
+                Load.Err(diag("Daten nicht lesbar", e))
             }
         }
     }
@@ -209,7 +213,7 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
                 handleAuthFailure(e.message ?: "")
                 Load.Err(e.message ?: "Fehler")
             } catch (e: Exception) {
-                Load.Err("Daten nicht lesbar")
+                Load.Err(diag("Daten nicht lesbar", e))
             }
         }
     }

@@ -9,15 +9,15 @@
 9        android:targetSdkVersion="36" />
 10
 11    <uses-feature android:name="android.hardware.type.watch" />
-11-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:4:5-64
-11-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:4:19-61
+11-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:4:5-64
+11-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:4:19-61
 12
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:5:5-67
-13-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:5:22-64
+13-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:5:5-67
+13-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:5:22-64
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:6:5-79
-14-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:6:22-76
+14-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:6:5-79
+14-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:6:22-76
 15
 16    <permission
 16-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\8.11.1\transforms\c06d49ed9c2529ca1c3710ebf6930fea\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
@@ -31,46 +31,46 @@
 20-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\8.11.1\transforms\c06d49ed9c2529ca1c3710ebf6930fea\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:8:5-28:19
+22-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:8:5-28:19
 23        android:allowBackup="false"
-23-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:9:9-36
+23-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:9:9-36
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\8.11.1\transforms\c06d49ed9c2529ca1c3710ebf6930fea\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 25        android:debuggable="true"
 26        android:extractNativeLibs="false"
 27        android:icon="@mipmap/ic_launcher"
-27-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:10:9-43
+27-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:10:9-43
 28        android:label="@string/app_name"
-28-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:11:9-41
+28-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:11:9-41
 29        android:supportsRtl="true"
-29-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:12:9-35
+29-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:12:9-35
 30        android:testOnly="true"
 31        android:theme="@android:style/Theme.DeviceDefault" >
-31-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:13:9-59
+31-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:13:9-59
 32        <meta-data
-32-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:15:9-17:36
+32-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:15:9-17:36
 33            android:name="com.google.android.wearable.standalone"
-33-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:16:13-66
+33-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:16:13-66
 34            android:value="true" />
-34-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:17:13-33
+34-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:17:13-33
 35
 36        <activity
-36-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:19:9-27:20
+36-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:19:9-27:20
 37            android:name="de.pbwear.MainActivity"
-37-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:20:13-41
+37-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:20:13-41
 38            android:exported="true"
-38-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:21:13-36
+38-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:21:13-36
 39            android:theme="@android:style/Theme.DeviceDefault" >
-39-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:22:13-63
+39-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:22:13-63
 40            <intent-filter>
-40-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:23:13-26:29
+40-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:23:13-26:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:24:17-69
-41-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:24:25-66
+41-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:24:17-69
+41-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:24:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:25:17-77
-43-->C:\Users\Admin\Downloads\PlanspielWear(1)\PlanspielWear\app\src\main\AndroidManifest.xml:25:27-74
+43-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:25:17-77
+43-->C:\Users\Admin\Downloads\PlanspielWear(3)\PlanspielWear\app\src\main\AndroidManifest.xml:25:27-74
 44            </intent-filter>
 45        </activity>
 46
